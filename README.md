@@ -6,7 +6,6 @@
 
 ## Integrantes:
 * Alvarez, Agustín
-* Bolatti Cristofaro, María Carolina
 * de Rosario Boero, Aldana Mailén
 * Galván, Sebastián Alejandro
 * Octtinger, Martina
