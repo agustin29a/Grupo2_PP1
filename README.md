@@ -14,16 +14,20 @@
 * Siccardi, Luis
 * Vila, Mariano Raúl
 
+## ESTADO DEL PROYECTO: 
+En proceso.
+
 ## CONTENIDO
-1. Análisis Exploratorio.
-2. Preprocesamiento de los datos.
-3. Modelos de Machine Learning.
-4. Evaluación del modelo.
-5. Estrategias para mejorar el modelo.
-6. Conclusiones.
+1. Definición del problema y objetivos.
+2. Análisis Exploratorio.
+3. Preprocesamiento de los datos.
+4. Modelos de Machine Learning.
+5. Evaluación del modelo.
+6. Estrategias para mejorar el modelo.
+7. Conclusiones.
 
 ## Datasets:
-https://www.kaggle.com/datasets/mathchi/diabetes-data-set
+Dataset de diabetes. Link: https://www.kaggle.com/datasets/mathchi/diabetes-data-set
 
 ## Video Presentación:
 * 
@@ -35,6 +39,15 @@ https://www.kaggle.com/datasets/mathchi/diabetes-data-set
 ## Notebooks:
 * 
 * 
+
+## Tecnologías Utilizadas:
+Python
+Pandas
+Numpy
+Seaborn
+Matplotlib
+Scikit-Learn
+Imblearn
 
 ## Requerimientos:
 * 
