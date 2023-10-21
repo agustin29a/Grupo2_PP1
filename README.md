@@ -36,18 +36,21 @@ Dataset de diabetes. Link: https://www.kaggle.com/datasets/mathchi/diabetes-data
 * 
 * 
 
+## Tablero Trello:
+https://trello.com/b/I4hmnEmP/trabajo-final
+
 ## Notebooks:
 * 
 * 
 
 ## Tecnologías Utilizadas:
-Python
-Pandas
-Numpy
-Seaborn
-Matplotlib
-Scikit-Learn
-Imblearn
+* Python
+* Pandas
+* Numpy
+* Seaborn
+* Matplotlib
+* Scikit-Learn
+* Imblearn
 
 ## Requerimientos:
 * 
