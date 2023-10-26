@@ -18,17 +18,17 @@
 * Narciso Pérez
 * Carlos Charletti
 * Héctor Prado
-* 
+
 ## ESTADO DEL PROYECTO: 
-Finalizado
+Finalizado.
 
 ## OBJETIVO: 
 Desarrollar un modelo de machine learning altamente preciso y escalable para la detección temprana de la
 diabetes en mujeres, con el fin de mejorar la calidad de atención médica y reducir la carga de la enfermedad en esta población.
 
 ## ESTRUCTURA DE CARPETAS - ACCESO AL PROYECTO
-<em> 📁Dataset:  en esta carpeta se encuentra el dataset "diabetes.csv", utilizado para el proyecto.                                                         
-     📁Notebooks: dentro de la misma se podrá encontrar los archivos .ipynb que fueron trabajados por el equipo. Estos son:       
+<em> 📁 Dataset:  en esta carpeta se encuentra el dataset "diabetes.csv", utilizado para el proyecto.                                                         
+     📁 Notebooks: dentro de la misma se podrá encontrar los archivos .ipynb que fueron trabajados por el equipo. Estos son:       
                      * ANÁLISIS EXPLORATORIO.
                      * REGRESIÓN LOGISTICA
                      * SUPPORT VECTOR MACHINE
@@ -36,11 +36,8 @@ diabetes en mujeres, con el fin de mejorar la calidad de atención médica y red
                      * DECISION TREE                                        
 </em>
      
-## Datasets:
+## Dataset:
 Dataset de diabetes. Link: https://www.kaggle.com/datasets/mathchi/diabetes-data-set
-
-## Video Presentación:
-* 
 
 ## Tablero Trello:
 https://trello.com/b/I4hmnEmP/trabajo-final
