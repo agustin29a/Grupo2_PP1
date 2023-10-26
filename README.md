@@ -51,3 +51,4 @@ https://trello.com/b/I4hmnEmP/trabajo-final
 * Scikit-Learn
 * Imblearn
 
+## [WIKI DEL PROYECTO](https://github.com/agustin29a/Grupo2_PP1/wiki)
