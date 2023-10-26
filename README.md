@@ -2,7 +2,7 @@
 
 # Proyecto de Finalización - Práctica Profesionalizante I - TSCDIA - ISPC
 
-## Comisión Sala 1 - Cohorte 2022
+## Sala 1 - Cohorte 2022
 
 # GRUPO 2
 
@@ -14,34 +14,36 @@
 * Siccardi, Luis
 * Vila, Mariano Raúl
 
+## PROFESORES:
+* Narciso Pérez
+* Carlos Charletti
+* Héctor Prado
+* 
 ## ESTADO DEL PROYECTO: 
-En proceso.
+Finalizado
 
-## CONTENIDO
-1. Definición del problema y objetivos.
-2. Análisis Exploratorio.
-3. Preprocesamiento de los datos.
-4. Modelos de Machine Learning.
-5. Evaluación del modelo.
-6. Estrategias para mejorar el modelo.
-7. Conclusiones.
+## OBJETIVO: 
+Desarrollar un modelo de machine learning altamente preciso y escalable para la detección temprana de la
+diabetes en mujeres, con el fin de mejorar la calidad de atención médica y reducir la carga de la enfermedad en esta población.
 
+## ESTRUCTURA DE CARPETAS - ACCESO AL PROYECTO
+<em> 📁Dataset:  en esta carpeta se encuentra el dataset "diabetes.csv", utilizado para el proyecto.                                                         
+     📁Notebooks: dentro de la misma se podrá encontrar los archivos .ipynb que fueron trabajados por el equipo. Estos son:       
+                     * ANÁLISIS EXPLORATORIO.
+                     * REGRESIÓN LOGISTICA
+                     * SUPPORT VECTOR MACHINE
+                     * KNN
+                     * DECISION TREE                                        
+</em>
+     
 ## Datasets:
 Dataset de diabetes. Link: https://www.kaggle.com/datasets/mathchi/diabetes-data-set
 
 ## Video Presentación:
 * 
 
-## Reportes:
-* 
-* 
-
 ## Tablero Trello:
 https://trello.com/b/I4hmnEmP/trabajo-final
-
-## Notebooks:
-* 
-* 
 
 ## Tecnologías Utilizadas:
 * Python
@@ -52,5 +54,3 @@ https://trello.com/b/I4hmnEmP/trabajo-final
 * Scikit-Learn
 * Imblearn
 
-## Requerimientos:
-* 
